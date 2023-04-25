@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I am Chetan Mittal
+First year UG at NITJ pursuing Information Technology.
 
+Currently exploring blockchain and Web3 space.
+
+<!-- Connect with me https://www.linkedin.com/in/chetan-mittal03/ -->
 <!--
 **ichetanmittal/ichetanmittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
