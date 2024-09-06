@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chetan Mittal</h1>
 # 💫 About Me:
-🔭 Building CDAO<br>🌱 Currently into Blockchain & Web3 space<br>⚡ Fun fact - Bringing Decentralisation
+🔭 Building 🌱 Currently into Blockchain & Web3 space<br>⚡ Fun fact - Bringing Decentralisation
 
 
 ## 🌐 Socials:
